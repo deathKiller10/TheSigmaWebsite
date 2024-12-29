@@ -97,6 +97,9 @@ const Home = () => {
                 </div>
             </div>
         </div>
+        <div className="flex justify-center mt-8">
+        <button className="bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800">View all products</button>
+        </div>
     </section>
   )
 }
